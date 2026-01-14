@@ -1,13 +1,13 @@
 jungbox.github.io/
-├── _config.yml         (⭐ 설정: 사이트 제목, 내 정보, 설명 등)
-├── _data/              (⭐ 데이터: 스킬, 타임라인, 메뉴, SNS 등)
+├── _config.yml         (설정: 사이트 제목, 내 정보, 설명 등)
+├── _data/              (데이터: 스킬, 타임라인, 메뉴, SNS 등)
 │   ├── navigation.yml  (메뉴판: 아까 만든 거)
 │   ├── social-media.yml (SNS: 깃허브, 이메일 링크)
 │   ├── timeline.yml    (경력: 타임라인 내용)
 │   └── skills.yml      (기술: 사용 가능한 언어/툴)
-├── _posts/             (⭐ 블로그 글: 내 공부 기록)
+├── _posts/             (블로그 글: 내 공부 기록)
 │   └── 2024-01-01-title.md
-├── _projects/          (⭐ 프로젝트: 포트폴리오 카드)
+├── _projects/          (프로젝트: 포트폴리오 카드)
 │   └── my-project.md
 ├── pages/              (고정 페이지: About, 404 등)
 │   └── about.md        (내 소개 글)
